@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /static/
+Disallow: /media/
+
+
+
+
+Host: combinedesign.in
+Sitemap: https://combinedesign.in/sitemap.xml
